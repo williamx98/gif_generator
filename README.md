@@ -1,4 +1,4 @@
-# Python Moviepy gif_generator
+# Python Moviepy GIF Generator
 This is a Moviepy GIF generator that automates the process of producing GIFs
 
 Time spent: **2** hours spent in total
